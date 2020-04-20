@@ -1,0 +1,1 @@
+通过 fs.writeFile 写出文件
